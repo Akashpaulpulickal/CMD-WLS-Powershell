@@ -1,0 +1,29 @@
+ls: Lists the contents of a directory.
+
+cd: Changes the current directory.
+
+mkdir: Creates a new directory.
+
+rmdir: Removes a directory.
+
+rm: Deletes files or directories.
+
+cp: Copies files or directories.
+
+mv: Moves files or directories.
+
+clear: Clears the screen.
+
+echo: Displays messages.
+
+exit: Exits the terminal.
+
+ifconfig: Displays IP configuration information.
+
+ping: Tests network connectivity.
+
+netstat: Displays network statistics.
+
+ps: Lists all running processes.
+
+kill: Terminates a running process.
