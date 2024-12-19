@@ -1,0 +1,27 @@
+Get-ChildItem: Lists the contents of a directory (similar to dir in CMD).
+
+Set-Location: Changes the current directory (similar to cd in CMD).
+
+New-Item: Creates a new file or directory.
+
+Remove-Item: Deletes files or directories.
+
+Copy-Item: Copies files or directories.
+
+Move-Item: Moves files or directories.
+
+Rename-Item: Renames a file or directory.
+
+Clear-Host: Clears the screen (similar to cls in CMD).
+
+Write-Output: Displays messages.
+
+Exit-PSSession: Exits the current PowerShell session.
+
+Get-NetIPAddress: Displays IP configuration information.
+
+Test-Connection: Tests network connectivity (similar to ping in CMD).
+
+Get-Process: Lists all running processes.
+
+Stop-Process: Terminates a running process.
