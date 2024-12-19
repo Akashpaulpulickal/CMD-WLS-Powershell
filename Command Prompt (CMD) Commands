@@ -1,0 +1,31 @@
+dir: Lists the contents of a directory.
+
+cd: Changes the current directory.
+
+mkdir: Creates a new directory.
+
+rmdir: Removes a directory.
+
+del: Deletes one or more files.
+
+copy: Copies files from one location to another.
+
+move: Moves files from one location to another.
+
+ren: Renames a file or directory.
+
+cls: Clears the screen.
+
+echo: Displays messages or turns command echoing on or off.
+
+exit: Exits the command prompt.
+
+ipconfig: Displays IP configuration information.
+
+ping: Tests network connectivity.
+
+netstat: Displays network statistics.
+
+tasklist: Lists all running processes.
+
+taskkill: Terminates a running process.
